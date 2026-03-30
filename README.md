@@ -149,10 +149,10 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
+<img width="845" height="317" alt="image" src="https://github.com/user-attachments/assets/809f00fb-4ffc-4936-ab26-e6d19d37221f" />
 
-![Alt text](<../Screenshot at 2026-03-30 07-19-36.png>)
+<img width="878" height="678" alt="image" src="https://github.com/user-attachments/assets/44ceba7d-e8d6-4d73-ab84-3a8822830957" />
 
-![Alt text](<../Screenshot at 2026-03-30 07-23-58.png>)
 
 # RESULT:
 The programs are executed successfully.
