@@ -76,7 +76,7 @@ int main(int argc, char *argv[]) {
 
     return EXIT_SUCCESS;
 }
-```c
+```
 
 ## 2.To Write a C program that illustrates files locking
 ```c
@@ -145,14 +145,14 @@ int main(int argc, char *argv[]) {
     close(fd);
     return 0;
 }
-```c
+```
 
 
 ## OUTPUT
-<img width="875" height="292" alt="image" src="https://github.com/user-attachments/assets/8e45dba8-390a-4406-afff-6814813ea2c6" />
 
+![Alt text](<../Screenshot at 2026-03-30 07-19-36.png>)
 
-
+![Alt text](<../Screenshot at 2026-03-30 07-23-58.png>)
 
 # RESULT:
 The programs are executed successfully.
